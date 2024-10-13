@@ -1,7 +1,7 @@
 <h3 align="center">As a final-year student with intermediate skills in Excel, SQL, and Python, I aim to apply my data analysis knowledge as a Data Analyst Intern.</h3>
 
 - 🌱 I’m currently looking for **Internship work**
-- 📄 My resume: [Link](https://tinyurl.com/36w794dx)
+- 📄 My resume: [here](https://tinyurl.com/36w794dx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
