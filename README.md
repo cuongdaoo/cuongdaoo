@@ -26,10 +26,10 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="!https://github.com/user-attachments/assets/cd7617cf-80d4-41dd-9190-f25e02d6aac4" alt="powerbi" width="40" height="40"/>
+    <img src="https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Microsoft_Excel_Logo.svg" alt="excel" width="40" height="40"/>
+    <img src="https://en.m.wikipedia.org/wiki/File:Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
   </a>
 </p>
 
