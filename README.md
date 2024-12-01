@@ -4,9 +4,11 @@
 - 📄 My resume: [here](https://tinyurl.com/36w794dx)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/daovietcuong"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daovietcuong" height="30" width="40" /></a>
-</p>
+<div align="left">
+<a href="www.linkedin.com/in/daovietcuong">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daovietcuong" height="30" width="40" />
+</a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
