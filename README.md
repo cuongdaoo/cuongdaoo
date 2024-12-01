@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="www.linkedin.com/in/daovietcuong">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daovietcuong" height="30" width="40" />
+  <img align="center" src="https://github.com/user-attachments/assets/d5fc00e5-2901-440c-b2b1-20a48799cea0" alt="https://www.linkedin.com/in/daovietcuong" height="30" width="40" />
 </a>
 </div>
 
